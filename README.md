@@ -8,6 +8,7 @@ Rename stproxy.dll to whichever proxy name the game needs:
 
 
 Build (x64):
+
     cmake -S . -B build -G "Visual Studio 17 2022" -A x64
     
     mkdir build\ProxyDLL.dir\Release\proxy
