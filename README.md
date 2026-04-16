@@ -1,4 +1,5 @@
 Rename stproxy.dll to whichever proxy name the game needs:
+
     winmm.dll
     version.dll
     dinput8.dll
