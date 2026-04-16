@@ -1,4 +1,4 @@
-A "CLEAN" x64 DLL plugin loader designed for maximum compatibility and zero VirusTotal flags. While many loaders show possible false positives, this tool is built to be lightweight and functional. Supports games using the following libraries:
+A "CLEAN" x64 DLL plugin loader designed for maximum compatibility and zero VirusTotal flags. At the time of release, it's listed with zero. While many loaders show possible false positives, this tool is built to be lightweight and functional. Supports games using the following libraries:
 
 winmm.dll
 
