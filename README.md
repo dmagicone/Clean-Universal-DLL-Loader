@@ -1,3 +1,7 @@
+
+<img width="1584" height="470" alt="Clean-Universal-DLL-Loader" src="https://github.com/user-attachments/assets/c0d01e32-b701-41a5-8122-e4c474bd1686" />
+
+
 A "CLEAN" x64 DLL plugin loader designed for maximum compatibility and zero VirusTotal flags. At the time of release, it's listed with zero. While many loaders show possible false positives, this tool is built to be lightweight and functional. Supports games using the following libraries:
 
 winmm.dll
