@@ -11,6 +11,8 @@ dsound.dll
 dxgi.dll
 
 
+
+
 Rename stproxy.dll to whichever proxy name the game needs:
 
     winmm.dll
