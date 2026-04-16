@@ -28,7 +28,10 @@ Rename stproxy.dll to whichever proxy name the game needs:
 Place the dllload.txt in the same folder as the loader. Edit the txt file to include any dll files you want to load.
 
 
-Build (x64):
+
+
+
+Build Instuctions (x64):
 
     cmake -S . -B build -G "Visual Studio 17 2022" -A x64
     
