@@ -1,10 +1,15 @@
 A "clean" x64 DLL plugin loader designed for maximum compatibility and zero VirusTotal flags. While many loaders show possible false positives, this tool is built to be lightweight and functional. Supports games using the following libraries:
 
 winmm.dll
+
 version.dll
+
 dinput8.dll
+
 dsound.dll
+
 dxgi.dll
+
 
 Rename stproxy.dll to whichever proxy name the game needs:
 
