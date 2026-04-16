@@ -25,6 +25,7 @@ Rename stproxy.dll to whichever proxy name the game needs:
     dsound.dll
     dxgi.dll
 
+Place the dllload.txt in the same folder as the loader. Edit the txt file to include any dll files you want to load.
 
 
 Build (x64):
