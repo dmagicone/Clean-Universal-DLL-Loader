@@ -14,6 +14,10 @@ dsound.dll
 
 dxgi.dll
 
+dbghelp.dll
+
+dwmapi.dll
+
 
 
 
@@ -24,6 +28,8 @@ Rename stproxy.dll to whichever proxy name the game needs:
     dinput8.dll
     dsound.dll
     dxgi.dll
+    dbghelp.dll
+    dwmapi.dll
 
 Place the dllload.txt in the same folder as the loader. Edit the txt file to include any dll files you want to load.
 
